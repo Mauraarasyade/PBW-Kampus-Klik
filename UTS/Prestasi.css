@@ -1,0 +1,41 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+header {
+    background-color: #193446;
+    color: #EDFAFD;
+    padding: 20px;
+    text-align: center;
+}
+footer {
+    background-color: #193446;
+    color: #EDFAFD;
+    padding: 20px;
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.achievement {
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.achievement h3 {
+    margin-top: 50px;
+    margin-left: 40px;
+    text-align: left;
+}
+.achievement p {
+    margin-top: 5px;
+    margin-left: 60px;
+    margin-right: 40px;
+}

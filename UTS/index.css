@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    padding: 19px;
+}
+#atas{
+    background-color: #193446;
+    text-align: center;
+    color: #EDFAFD;
+    height: 115px;
+}
+#kiri {
+    width: 15%;
+    background-color: #EDFAFD;
+    color:#193446;
+    height: calc(70vh - 20px);
+    margin: 20px;
+}
+#tengah {
+    width: 55%;
+    background-color: white;
+    color: #193446;
+    height: calc(70vh - 20px);
+    margin: 20px;
+}
+#kanan {
+    width: 25%;
+    background-color: #EDFAFD;
+    color:#193446;
+    height: calc(70vh - 20px);
+    text-align: center;
+}
+#bawah{
+    background-color: #193446;
+    text-align: center;
+    color: #EDFAFD;
+}
+a {
+    text-decoration: underline;
+    color: #193446;
+}
+
+.sidebar ul li {
+    text-decoration: none;
+    color: white;
+}
+
+.bulat{
+    border-radius: 20px;
+    justify-content:center;
+    width: 200px;
+    height: 200px;
+}
+span {
+    display: inline-block;
+    width: 52px;
+}
